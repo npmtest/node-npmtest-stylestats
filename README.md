@@ -1,4 +1,7 @@
-# test coverage for  [stylestats (v7.0.1)](http://www.stylestats.org)  [![npm package](https://img.shields.io/npm/v/npmtest-stylestats.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stylestats) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stylestats.svg)](https://travis-ci.org/npmtest/node-npmtest-stylestats)
+# npmtest-stylestats
+
+#### basic test coverage for  [stylestats (v7.0.1)](http://www.stylestats.org)  [![npm package](https://img.shields.io/npm/v/npmtest-stylestats.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-stylestats) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-stylestats.svg)](https://travis-ci.org/npmtest/node-npmtest-stylestats)
+
 #### StyleStats is a small library to collect CSS statistics!
 
 [![NPM](https://nodei.co/npm/stylestats.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stylestats)
